@@ -4,5 +4,5 @@ scheme: Gemini
 
 menu:
   home: / || fa fa-home
-  课程讲义: /slides/ || fa fa-book
+  课程时间及讲义: /slides/ || fa fa-book
   课程作业: /homework/ || fa fa-book
