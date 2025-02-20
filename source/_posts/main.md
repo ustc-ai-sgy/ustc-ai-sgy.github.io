@@ -74,13 +74,13 @@ title: 2025人工智能数学原理与算法课程介绍
 
 ## 作业和实验提交
 
-作业
+作业提交
 
--   在 blackboard 系统上提交
+-   在 [blackboard 系统](https://www.bb.ustc.edu.cn/)上提交
 -   作业命名格式: 学号_姓名.文件拓展名 (e.g., PB19011000_ZhangSan.pdf) 
 -   Latex is perferred.  
 
-实验
+实验提交
 
 -   待定，见QQ群通知
 
