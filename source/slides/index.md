@@ -5,18 +5,21 @@ title: 课程时间及讲义
 <table>
   <tbody>
     <tr>
-      <td>No</td>
-      <td>上课时间</td>
-      <td>上课老师</td>
-      <td>主要内容</td>
-      <td>讲义</td>
+      <td align="center">No</td>
+      <td align="center">上课时间</td>
+      <td align="center">上课老师</td>
+      <td align="center">主要内容</td>
+      <td align="center">讲义</td>
     </tr>
     <tr>
       <td align="center">1</td>
       <td>2025.2.24</td>
       <td rowspan="2" align="center">周熠老师</td>
       <td rowspan="2" align="center">人工智能概述</td>
-      <td rowspan="2"><a href="./1.1 人工智能简介.pdf">1.1 人工智能简介.pdf</a><br /><a href="./1.2 人工智能代表性技术选讲.pdf">1.2 人工智能代表性技术选讲.pdf</a><br /><a href="./1.3 人工智能简史.pdf">1.3 人工智能简史.pdf</a></td>
+      <td rowspan="2">
+        <a href="./1.1 人工智能简介.pdf">1.1 人工智能简介.pdf</a><br />
+        <a href="./1.2 人工智能代表性技术选讲.pdf">1.2 人工智能代表性技术选讲.pdf</a><br />
+        <a href="./1.3 人工智能简史.pdf">1.3 人工智能简史.pdf</a></td>
     </tr>
     <tr>
       <td align="center">2</td>
