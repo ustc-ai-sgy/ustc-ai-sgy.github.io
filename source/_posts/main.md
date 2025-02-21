@@ -27,15 +27,16 @@ title: 2025春季人工智能数学原理与算法课程介绍
 | 手动实现反向传播算法实验 | 连德富老师（4学时）    |
 | 综合大实验多选一         | 实验设计老师（16学时） |
 
-## 助教（暂定）
+## 助教
 
 | 姓名   | 邮箱                           | 擅长领域 |
 | ------ | ------------------------------ | ------ |
-| 章馨月 | xinyuezhang@mail.ustc.edu.cn | 强化学习 |
+| 章馨月 | xinyuezhang@mail.ustc.edu.cn | 强化学习，图神经网络 |
 | 王悦果 | shiyan688@mail.ustc.edu.cn | 机器学习基础，Transformer |
 | 杨程 | yc648@mail.ustc.edu.cn | 强化学习，图神经网络 |
 | 张易 | zy1230@mail.ustc.edu.cn | 机器学习基础，神经网络基础 |
 | 李钊佚 | lizhaoyi777@mail.ustc.edu.cn | Transformer，自监督学习 |
+| 耿浩涵 | ghh3@mail.ustc.edu.cn | 强化学习，神经网络基础 |
 
 ## 课程时间与地点
 
