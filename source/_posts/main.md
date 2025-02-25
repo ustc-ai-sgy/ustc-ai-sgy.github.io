@@ -92,6 +92,6 @@ title: 2025春季人工智能数学原理与算法课程介绍
 ## 如何参与课程建设/讨论？
 
 -   课程QQ群讨论
--   [Github讨论区](https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/issues) 在本仓库的issue区直接发布讨论话题
+-   [Github讨论区](https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/discussions) 在本仓库的讨论区直接发布讨论话题
     -   助教会定期选取有价值的内容同步到课程主页
 -   原则：仅鼓励合理的课程内容讨论，不可以包含作业/实验答案等，否则将被视为作弊。
