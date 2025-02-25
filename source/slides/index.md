@@ -19,7 +19,8 @@ title: 课程时间及讲义
       <td rowspan="2">
         <a href="./1.1 人工智能简介.pdf">1.1 人工智能简介.pdf</a><br />
         <a href="./1.2 人工智能代表性技术选讲.pdf">1.2 人工智能代表性技术选讲.pdf</a><br />
-        <a href="./1.3 人工智能简史.pdf">1.3 人工智能简史.pdf</a></td>
+        <a href="./1.3 人工智能简史.pdf">1.3 人工智能简史.pdf</a>
+      </td>
     </tr>
     <tr>
       <td align="center">2</td>
@@ -30,7 +31,12 @@ title: 课程时间及讲义
       <td>2025.3.3</td>
       <td rowspan="3" align="center">冯福利老师</td>
       <td rowspan="3" align="center">机器学习基础</td>
-      <td rowspan="3"></td>
+      <td rowspan="3">
+        <a href="./2.1 机器学习介绍.pdf">2.1 机器学习介绍.pdf</a><br />
+        <a href="./2.2 线性代数基础.pdf">2.2 线性代数基础.pdf</a><br />
+        <a href="./2.3 概率统计基础1.pdf">2.3 概率统计基础1.pdf</a><br />
+        <a href="./2.3 概率统计基础2.pdf">2.3 概率统计基础2.pdf</a>
+      </td>
     </tr>
     <tr>
       <td align="center">4</td>
@@ -45,7 +51,11 @@ title: 课程时间及讲义
       <td>2025.3.13</td>
       <td rowspan="3" align="center">王翔老师</td>
       <td rowspan="3" align="center">机器学习基础</td>
-      <td rowspan="3"></td>
+      <td rowspan="3">
+        <a href="./2.4线性回归.pdf">2.4线性回归.pdf</a><br />
+        <a href="./2.5逻辑回归1.pdf">2.5逻辑回归1.pdf</a><br />
+        <a href="./2.6逻辑回归2.pdf">2.6逻辑回归2.pdf</a>
+      </td>
     </tr>
     <tr>
       <td align="center">7</td>
