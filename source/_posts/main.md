@@ -27,7 +27,7 @@ title: 2025春季人工智能数学原理与算法课程介绍
 | 手动实现反向传播算法实验 | 连德富老师（4学时）    |
 | 综合大实验多选一         | 实验设计老师（16学时） |
 
-## 助教（暂定）
+## 助教
 
 | 姓名   | 邮箱                           | 擅长领域 |
 | ------ | ------------------------------ | ------ |
@@ -37,6 +37,7 @@ title: 2025春季人工智能数学原理与算法课程介绍
 | 张易 | zy1230@mail.ustc.edu.cn | 机器学习基础，神经网络基础 |
 | 李钊佚 | lizhaoyi777@mail.ustc.edu.cn | Transformer，自监督学习 |
 | 耿浩涵 | ghh3@mail.ustc.edu.cn | 强化学习，神经网络基础 |
+| 赵泽昆 | zekun@mail.ustc.edu.cn | Python编程 |
 
 ## 课程时间与地点
 
@@ -84,7 +85,8 @@ title: 2025春季人工智能数学原理与算法课程介绍
 #### 作业提交
 
 -   在 [blackboard 系统](https://www.bb.ustc.edu.cn/)上提交
--   注意：第一次和第二次作业提交到课程邮箱`ustc-ai@outlook.com`
+    -   注意：第一次和第二次作业提交到课程邮箱`ustc-ai@outlook.com`
+
 -   作业命名格式: 学号\_姓名\_第n次作业 (e.g., PB19011000_ZhangSan_第一次作业.pdf) 
 -   Latex is perferred.  
 
